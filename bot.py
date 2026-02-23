@@ -5,7 +5,7 @@ from aiogram.filters import Command
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 # TOKENINGIZNI KIRITING
-TOKEN = "BU_YERGA_BOT_TOKENINI_YOZING" 
+TOKEN = "8113803802:AAHQOQnnAdCAkiCGiFOD0RBmOJ5eR1_LF-Y" 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
