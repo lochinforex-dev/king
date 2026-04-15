@@ -2,7 +2,7 @@ import sqlite3
 from aiogram import Bot, Dispatcher, executor, types
 
 # Bot tokeningizni shu yerga qo'ying
-API_TOKEN = '8794313465:AAF2fYSUMPHXRWzLQsxKRn3RDHlABIRqRH4'
+API_TOKEN = '8740533809:AAFD-LeOzZeQWPqGTomuAmDPp04XOdMMlMQ'
 ADMIN_ID = 12345678  # O'zingizning ID raqamingizni yozing
 
 bot = Bot(token=API_TOKEN)
